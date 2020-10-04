@@ -1,0 +1,142 @@
+
+body
+{
+  font-family: 'Merriweather',sans-serif;
+  text-align: center ;
+  margin:0;
+
+}
+.top-container
+{
+  position: relative;
+  padding:100px;
+  background-color: #EAF6F6;
+}
+.BUTTON_GIU {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: linear-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 20px;
+   box-shadow: 1px 1px 20px 0px #000000;
+   -webkit-box-shadow: 1px 1px 20px 0px #000000;
+   -moz-box-shadow: 1px 1px 20px 0px #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top:20px;
+}
+
+
+.top-cloud
+{
+  position:absolute;
+  right :250px;
+  top:50px;
+}
+.bottom-cloud
+{
+  position:absolute;
+  left:250px;
+  bottom:350px;
+}
+h1
+{
+  font-size: 7.625rem;
+  font-family: 'Sacramento', cursive;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin: 50px auto 0 auto;
+  color:#66BFBF;
+    line-height: 2;
+}
+hr
+{
+  margin: 50px auto 50px auto;
+  border: 0px;
+  padding: inherit;
+  border-top: dotted 10px;
+  width :7%;
+  color:gray;
+}
+h2
+{font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+font-size: 2.5rem;
+color:#66BFBF;
+}
+
+h3
+{
+  font-weight: normal;
+  margin:0 auto 0 auto;
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+    color:#66BFBF;
+}
+.skills
+{
+  margin-bottom:10px;
+}
+.skill-row
+{
+  width:50%;
+  margin:100px auto 100px auto ;
+  text-align:left;
+  padding: 10px;
+}
+.pro
+{
+  width:25%;
+  float:left;
+  margin-right: 40px;
+  margin-bottom: 10px;
+}
+.webd
+{
+  float:right;
+  margin-left: 40px;
+  width:25%;
+}
+.contact-me
+{
+  margin-bottom: 50px;
+}
+p
+{
+  color:#40514E;
+  font-family: 'Montserrat', sans-serif;
+}
+.mountain
+{
+  display: block;
+  width:600px;
+  margin:0 auto 0 auto;
+}
+.bottom-container
+{
+  background-color: #66BFBF;
+  color:#EAF6F6;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.footer-link
+{
+  color:#11999E;
+}
+.below
+{
+  color:#EAF6F6;
+}
